@@ -1,0 +1,391 @@
+timestamp,flight_iata,airline_name,departure_airport,arrival_airport,flight_status,departure_delay,arrival_delay,city,temperature,pressure,humidity,wind_speed,weather_main,predicted_arrival_delay,delay_hr_min,predicted_status
+1745896317977,3U1547,Sichuan Airlines,Harbin,Chengdu Tianfu International Airport,active,3.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,ET4232,Ethiopian Airlines,Cochin International,Seeb,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,TV5055,Tibet Airlines,Harbin,,active,8.0,7.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,GJ5296,Loong Air,Harbin,,active,8.0,7.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,CZ7053,China Southern Airlines,Harbin,,active,8.0,7.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,HX1338,Hong Kong Airlines,Harbin,Tianhe International,active,6.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,GJ3644,Loong Air,Harbin,Tianhe International,active,6.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,QF2901,Qantas,,Perth International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,SQ6370,Singapore Airlines,Perth International,Christmas Island,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,QR7103,Qatar Airways,Perth International,Christmas Island,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,NZ7057,Air New Zealand,Perth International,Sydney Kingsford Smith Airport,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317977,MU4161,China Eastern Airlines,Perth International,Sydney Kingsford Smith Airport,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,,QantasLink,Perth International,Karratha,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,,empty,Albury,Albury,active,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,ID2102,Batik Air,Kuala Lumpur International Airport (klia),Penang International,landed,24.0,6.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,8L7147,Lucky Air,Beijing Capital International,Chengdu Tianfu International Airport,active,3.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,ZH1835,Shenzhen Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,UA7570,United Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SC5416,Shandong Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,NZ3819,Air New Zealand,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,ZH1475,Shenzhen Airlines,Beijing Capital International,Kunming,cancelled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SC5055,Shandong Airlines,Beijing Capital International,Kunming,cancelled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,ZH1423,Shenzhen Airlines,Beijing Capital International,Liupanshui Yuezhao Airport,cancelled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,ZH1431,Shenzhen Airlines,Beijing Capital International,Chongqing Jiangbei International,active,6.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SC5031,Shandong Airlines,Beijing Capital International,Chongqing Jiangbei International,active,6.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,MS147,EgyptAir,Aswan,Abu Simbel,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,DL7743,Delta Air Lines,Penang International,Taiwan Taoyuan International (Chiang Kai Shek International),scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,DL8351,Delta Air Lines,Charles De Gaulle,Montpellier Méditerranée,scheduled,19.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,,empty,Montpellier Méditerranée,Avignon-Caumont,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,,ENAC Ecole Aviation Civile,Montpellier Méditerranée,Mazamet,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,,ENAC Ecole Aviation Civile,Montpellier Méditerranée,Clermont/Ferrand Auvergne International (Aulnat),scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AF7461,Air France,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,WS5016,WestJet,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,VN3203,Vietnam Airlines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,RO9560,TAROM,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,MU1545,China Eastern Airlines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,MK9061,Air Mauritius,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,KL2317,KLM,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,G35290,Gol,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,DL8621,Delta Air Lines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,V72125,Volotea,Montpellier Méditerranée,Nantes Atlantique,scheduled,10.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,PC5739,Pegasus,Bolshoye Savino,Antalya,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,DP6842,Pobeda,Kazan,Sheremetyevo International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,WY5622,Oman Air,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SQ5627,Singapore Airlines,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,QR5479,Qatar Airways,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,FY7339,Firefly,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AY6742,Finnair,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,PG4803,Bangkok Airways,Suvarnabhumi International,Singapore Changi,active,17.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AC7420,Air Canada,Suvarnabhumi International,Singapore Changi,active,17.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,NH6266,ANA,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,FJ5965,Fiji Airways,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AI8178,Air India,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,NZ3214,Air New Zealand,Singapore Changi,Bangalore International Airport,active,23.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AC5843,Air Canada,Singapore Changi,Bangalore International Airport,active,23.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SQ4281,Singapore Airlines,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,LH7167,Lufthansa,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AI6290,Air India,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,VA5742,Virgin Australia,Singapore Changi,Beijing Capital International,active,18.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,CA5284,Air China LTD,Singapore Changi,Beijing Capital International,active,18.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SQ8660,Singapore Airlines,Singapore Changi,Yogyakarta International Airport,active,30.0,8.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AS7352,AlphaSky,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,WS5933,WestJet,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,OM5502,Miat - Mongolian Airlines,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,UL3354,SriLankan Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,QF4021,Qantas,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,HA5370,Hawaiian Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AA8413,American Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E6294,IndiGo,Hyderabad Airport,Varanasi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E5384,IndiGo,Hyderabad Airport,Chhatrapati Shivaji International (Sahar International),scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,AI2534,Air India,Hyderabad Airport,Chhatrapati Shivaji International (Sahar International),scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E537,IndiGo,Hyderabad Airport,Darbhanga Airport,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E7211,IndiGo,Hyderabad Airport,Vijayawada,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E6031,IndiGo,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E376,IndiGo,Hyderabad Airport,Netaji Subhas Chandra,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E7458,IndiGo,Hyderabad Airport,Bhopal,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E1181,IndiGo,Hyderabad Airport,Bandaranaike International,scheduled,1.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,IX2835,Air India Express,Hyderabad Airport,Varanasi,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,6E167,IndiGo,Hyderabad Airport,Raja Sansi International Airport,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,VS9151,Virgin Atlantic,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,QF8784,Qantas,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,JL9634,Japan Airlines,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SN3734,Brussels Airlines,Pablo Ruiz Picasso,Brussels Airport,cancelled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,SQ2621,Singapore Airlines,Billund,Kastrup,scheduled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317978,3U1145,Sichuan Airlines,Guangzhou Baiyun International,Shuangliu,active,12.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,EK7444,Emirates,Guangzhou Baiyun International,Shuangliu,active,12.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,ZH1380,Shenzhen Airlines,Guangzhou Baiyun International,Beijing Capital International,cancelled,,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,3U1079,Sichuan Airlines,Guangzhou Baiyun International,Xianyang,active,12.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,DL6405,Delta Air Lines,Guangzhou Baiyun International,Shanghai Pudong International,active,11.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,MF3717,Xiamen Airlines,Guangzhou Baiyun International,Shanghai Pudong International,active,11.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,VN3505,Vietnam Airlines,Guangzhou Baiyun International,Tan Son Nhat International,active,53.0,9.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317982,3U7005,Sichuan Airlines,Guangzhou Baiyun International,Tan Son Nhat International,active,53.0,9.0,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317983,KL4302,KLM,Guangzhou Baiyun International,Zhengzhou,active,12.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896317983,3U1001,Sichuan Airlines,Guangzhou Baiyun International,Beijing Daxing International Airport,active,8.0,,Chicago,25.48,1009.0,73.0,8.39,"Clouds
+",276.97,4h 36m,Delayed
+1745896633699,flight_iata,airline_name,departure_airport,arrival_airport,flight_status,,,city,,,,,"weather_main
+",270.61,4h 30m,Delayed
+1745896633699,HU3266,Hainan Airlines,Zhoushan,Xianyang,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,HO5782,Juneyao Airlines,Harbin,Shanghai Pudong International,active,5.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,G58615,China Express Air,Harbin,Shanghai Pudong International,active,5.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,EU7035,Chengdu Airlines,Harbin,Shanghai Pudong International,active,5.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,CZ9111,China Southern Airlines,Harbin,Shanghai Pudong International,active,5.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ZH4792,Shenzhen Airlines,Harbin,Beijing Daxing International Airport,active,6.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,3U1547,Sichuan Airlines,Harbin,Chengdu Tianfu International Airport,active,3.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ET4232,Ethiopian Airlines,Cochin International,Seeb,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,TV5055,Tibet Airlines,Harbin,,active,8.0,7.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,GJ5296,Loong Air,Harbin,,active,8.0,7.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,CZ7053,China Southern Airlines,Harbin,,active,8.0,7.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,HX1338,Hong Kong Airlines,Harbin,Tianhe International,active,6.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,GJ3644,Loong Air,Harbin,Tianhe International,active,6.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,QF2901,Qantas,,Perth International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SQ6370,Singapore Airlines,Perth International,Christmas Island,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,QR7103,Qatar Airways,Perth International,Christmas Island,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,NZ7057,Air New Zealand,Perth International,Sydney Kingsford Smith Airport,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,MU4161,China Eastern Airlines,Perth International,Sydney Kingsford Smith Airport,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,,QantasLink,Perth International,Karratha,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,,empty,Albury,Albury,active,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ID2102,Batik Air,Kuala Lumpur International Airport (klia),Penang International,landed,24.0,6.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,8L7147,Lucky Air,Beijing Capital International,Chengdu Tianfu International Airport,active,3.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ZH1835,Shenzhen Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,UA7570,United Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SC5416,Shandong Airlines,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,NZ3819,Air New Zealand,Beijing Capital International,Shanghai Pudong International,active,14.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ZH1475,Shenzhen Airlines,Beijing Capital International,Kunming,cancelled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SC5055,Shandong Airlines,Beijing Capital International,Kunming,cancelled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ZH1423,Shenzhen Airlines,Beijing Capital International,Liupanshui Yuezhao Airport,cancelled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,ZH1431,Shenzhen Airlines,Beijing Capital International,Chongqing Jiangbei International,active,6.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SC5031,Shandong Airlines,Beijing Capital International,Chongqing Jiangbei International,active,6.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,MS147,EgyptAir,Aswan,Abu Simbel,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,DL7743,Delta Air Lines,Penang International,Taiwan Taoyuan International (Chiang Kai Shek International),scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,DL8351,Delta Air Lines,Charles De Gaulle,Montpellier Méditerranée,scheduled,19.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,,empty,Montpellier Méditerranée,Avignon-Caumont,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,,ENAC Ecole Aviation Civile,Montpellier Méditerranée,Mazamet,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,,ENAC Ecole Aviation Civile,Montpellier Méditerranée,Clermont/Ferrand Auvergne International (Aulnat),scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AF7461,Air France,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,WS5016,WestJet,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,VN3203,Vietnam Airlines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,RO9560,TAROM,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,MU1545,China Eastern Airlines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,MK9061,Air Mauritius,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,KL2317,KLM,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,G35290,Gol,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,DL8621,Delta Air Lines,Montpellier Méditerranée,Charles De Gaulle,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,V72125,Volotea,Montpellier Méditerranée,Nantes Atlantique,scheduled,10.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,PC5739,Pegasus,Bolshoye Savino,Antalya,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,DP6842,Pobeda,Kazan,Sheremetyevo International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,WY5622,Oman Air,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SQ5627,Singapore Airlines,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,QR5479,Qatar Airways,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,FY7339,Firefly,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AY6742,Finnair,Kuala Lumpur International Airport (klia),Singapore Changi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,PG4803,Bangkok Airways,Suvarnabhumi International,Singapore Changi,active,17.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AC7420,Air Canada,Suvarnabhumi International,Singapore Changi,active,17.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,NH6266,ANA,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,FJ5965,Fiji Airways,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AI8178,Air India,Singapore Changi,Kansai International,scheduled,19.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,NZ3214,Air New Zealand,Singapore Changi,Bangalore International Airport,active,23.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AC5843,Air Canada,Singapore Changi,Bangalore International Airport,active,23.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SQ4281,Singapore Airlines,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,LH7167,Lufthansa,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AI6290,Air India,Singapore Changi,Auckland International,active,50.0,134.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,VA5742,Virgin Australia,Singapore Changi,Beijing Capital International,active,18.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,CA5284,Air China LTD,Singapore Changi,Beijing Capital International,active,18.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,SQ8660,Singapore Airlines,Singapore Changi,Yogyakarta International Airport,active,30.0,8.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,AS7352,AlphaSky,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,WS5933,WestJet,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,OM5502,Miat - Mongolian Airlines,Singapore Changi,Narita International Airport,active,33.0,1.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,UL3354,SriLankan Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,QF4021,Qantas,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633699,HA5370,Hawaiian Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,AA8413,American Airlines,Singapore Changi,Narita International Airport,scheduled,33.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E6294,IndiGo,Hyderabad Airport,Varanasi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E5384,IndiGo,Hyderabad Airport,Chhatrapati Shivaji International (Sahar International),scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,AI2534,Air India,Hyderabad Airport,Chhatrapati Shivaji International (Sahar International),scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E537,IndiGo,Hyderabad Airport,Darbhanga Airport,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E7211,IndiGo,Hyderabad Airport,Vijayawada,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E6031,IndiGo,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E376,IndiGo,Hyderabad Airport,Netaji Subhas Chandra,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E7458,IndiGo,Hyderabad Airport,Bhopal,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E1181,IndiGo,Hyderabad Airport,Bandaranaike International,scheduled,1.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,IX2835,Air India Express,Hyderabad Airport,Varanasi,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,6E167,IndiGo,Hyderabad Airport,Raja Sansi International Airport,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633703,VS9151,Virgin Atlantic,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,QF8784,Qantas,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,JL9634,Japan Airlines,Hyderabad Airport,Indira Gandhi International,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,SN3734,Brussels Airlines,Pablo Ruiz Picasso,Brussels Airport,cancelled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,SQ2621,Singapore Airlines,Billund,Kastrup,scheduled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,3U1145,Sichuan Airlines,Guangzhou Baiyun International,Shuangliu,active,12.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,EK7444,Emirates,Guangzhou Baiyun International,Shuangliu,active,12.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,ZH1380,Shenzhen Airlines,Guangzhou Baiyun International,Beijing Capital International,cancelled,,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,3U1079,Sichuan Airlines,Guangzhou Baiyun International,Xianyang,active,12.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,DL6405,Delta Air Lines,Guangzhou Baiyun International,Shanghai Pudong International,active,11.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,MF3717,Xiamen Airlines,Guangzhou Baiyun International,Shanghai Pudong International,active,11.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,VN3505,Vietnam Airlines,Guangzhou Baiyun International,Tan Son Nhat International,active,53.0,9.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,3U7005,Sichuan Airlines,Guangzhou Baiyun International,Tan Son Nhat International,active,53.0,9.0,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,KL4302,KLM,Guangzhou Baiyun International,Zhengzhou,active,12.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
+1745896633704,3U1001,Sichuan Airlines,Guangzhou Baiyun International,Beijing Daxing International Airport,active,8.0,,Chicago,25.37,1009.0,70.0,8.23,"Clouds
+",252.77,4h 12m,Delayed
