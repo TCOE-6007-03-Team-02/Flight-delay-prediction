@@ -8,7 +8,7 @@ from datetime import timedelta
 st.set_page_config(page_title="Flight Delay Prediction Dashboard", layout="wide")
 
 # Load the new prediction data
-df = pd.read_csv("predicted_flight_delays_rf.csv")
+df = pd.read_csv("flight_dashboard/predicted_flight_delays_rf.csv")
 
 # Convert timestamp to datetime if available
 if 'timestamp' in df.columns:
